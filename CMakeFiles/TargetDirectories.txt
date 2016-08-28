@@ -1,0 +1,11 @@
+/home/finn/Documents/c++/marble/CMakeFiles/edit_cache.dir
+/home/finn/Documents/c++/marble/CMakeFiles/rebuild_cache.dir
+/home/finn/Documents/c++/marble/bin/CMakeFiles/rebuild_cache.dir
+/home/finn/Documents/c++/marble/bin/CMakeFiles/server.dir
+/home/finn/Documents/c++/marble/bin/CMakeFiles/edit_cache.dir
+/home/finn/Documents/c++/marble/bin/CMakeFiles/client.dir
+/home/finn/Documents/c++/marble/libs/bin/CMakeFiles/edit_cache.dir
+/home/finn/Documents/c++/marble/libs/bin/CMakeFiles/rebuild_cache.dir
+/home/finn/Documents/c++/marble/libs/bin/iniparser/CMakeFiles/edit_cache.dir
+/home/finn/Documents/c++/marble/libs/bin/iniparser/CMakeFiles/rebuild_cache.dir
+/home/finn/Documents/c++/marble/libs/bin/iniparser/CMakeFiles/iniparser.dir

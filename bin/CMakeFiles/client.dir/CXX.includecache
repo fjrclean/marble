@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finn/Documents/c++/marble/libs/iniparser/dictionary.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+
+/home/finn/Documents/c++/marble/libs/iniparser/iniparser.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+dictionary.h
+/home/finn/Documents/c++/marble/libs/iniparser/dictionary.h
+
+/home/finn/Documents/c++/marble/src/client.cpp
+iostream
+-
+../libs/iniparser/iniparser.h
+/home/finn/Documents/c++/marble/libs/iniparser/iniparser.h
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+

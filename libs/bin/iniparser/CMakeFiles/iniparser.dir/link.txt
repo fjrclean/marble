@@ -1,0 +1,2 @@
+/usr/bin/ar qc libiniparser.a  CMakeFiles/iniparser.dir/dictionary.c.o CMakeFiles/iniparser.dir/iniparser.c.o
+/usr/bin/ranlib libiniparser.a

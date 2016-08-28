@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/client.dir/client.cpp.o  -o client  -L/home/finn/Documents/c++/marble/libs/bin/iniparser -rdynamic ../libs/bin/iniparser/libiniparser.a -lglfw -lrt -lm -ldl -lXrandr -lXinerama -lXxf86vm -lXext -lXcursor -lXrender -lXfixes -lX11 -lpthread -lxcb -lXau -lXdmcp -lGLEW -lGLU -lGLU -lGL -Wl,-rpath,/home/finn/Documents/c++/marble/libs/bin/iniparser 
